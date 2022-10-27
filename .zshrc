@@ -104,3 +104,6 @@ alias vi="nvim"
 alias vim="nvim"
 alias pac="pacman --color auto"
 alias scrot='grim -g "$(slurp)"'
+alias recon='sudo python3 /opt/AutoRecon/autorecon.py'
+alias c='wl-copy'
+alias ssh_key='bw get password 32a476de-a91c-4350-bddd-af350187a5eb | wl-copy '
